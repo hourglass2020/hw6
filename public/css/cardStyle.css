@@ -1,0 +1,15 @@
+.cardbox {
+  background-color: #444;
+  color: #fff;
+  border-radius: 5px;
+  padding: 20px;
+  font-size: 150%;
+  font-family: sans-serif;
+}
+
+.cardswrapper {
+  width: 600px;
+  display: grid;
+  grid-template-columns: repeat(3, 400px);
+  grid-gap: 33px;
+}

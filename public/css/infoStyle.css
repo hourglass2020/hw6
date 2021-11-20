@@ -1,0 +1,16 @@
+.form-inline {
+  align-items: center;
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+}
+
+/* Add some margins for each label */
+.form-box {
+  align-items: center;
+  margin: 5px 21px 5px 0;
+  padding: 10px;
+  background-color: rgb(27, 135, 236);
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
